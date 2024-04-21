@@ -1,6 +1,5 @@
 # Temporal force-directed graph
 
-https://observablehq.com/d/80d7f9f78c7f86ad@291
 
 View this notebook in your browser by running a web server in this folder. For
 example:
